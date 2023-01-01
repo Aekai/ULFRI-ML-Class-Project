@@ -1,0 +1,1 @@
+was made using 3 lstm layers (changed from 2), learning rate 0.01, batch size 64, epochs 20
